@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Anuphan:wght@100..700');
+:root{
+  --accentColor: #aa869a;
+  --background: ##fff7f5;
+  --borderColor: #e8e2e2;
+  --primaryColor: #ffede9;
+  
+
+
+  /* color-scheme: dark light; */
+}
+
+*{
+   font-family: "Anuphan", sans-serif;
+   color: var(--accentColor);
+   margin: 0;
+}
+
+
+@media (prefers-color-scheme:dark) {
+ 
+}
